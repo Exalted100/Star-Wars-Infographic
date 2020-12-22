@@ -14,7 +14,7 @@
 }
 
 .films:hover {
-    box-shadow: 0.2em 0.2em 0.2em gray;
+    box-shadow: 0.2em 0.2em 0.2em rgba(0, 0, 0, 0.3);
 }
 
 .films-inner {
