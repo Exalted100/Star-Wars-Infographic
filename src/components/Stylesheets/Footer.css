@@ -1,0 +1,11 @@
+body {
+    margin-bottom: 0;
+}
+
+.footer-container {
+    text-align: center;
+    background-color: #1a1a1a;
+    margin-bottom: 0;
+    position: absolute; 
+    bottom: 0;
+}
